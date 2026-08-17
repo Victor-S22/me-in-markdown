@@ -19,6 +19,10 @@ Over the summer I traveled to **Florida** to visit my family. I got to go out on
 
 I love to draw, and I have recently started painting. I chose to paint a <u>watermelon</u>, and it was really cool getting get the colors right, and seeing the painting coming together.
 
+Here is my link:
+
+[Schoology](https://lms.lausd.net/home)
+
 Here is my image collage:
 
 ![alt text](image.png)
