@@ -3,7 +3,7 @@
 
 Hello **Mr. Aiello,**
 
-My name is **Victor Shea** and I am in 10th grade. I live in Chatsworth and I go to this school *(Obviously!)*. I have recently learned sign language in my <u> ASL</u> class, and I am taking three **AP** classes this year. A fun fact about myself is that I can play the flute. My goal for the school year is to pass all my classes with straight **A's**.
+My name is **Victor Shea** and I am in 10th grade. I live in Chatsworth and I go to this school *(Obviously!)*. I have recently learned sign language in my <u> ASL</u> class, and I am taking three **AP** classes this year. A fun fact about myself is that I can play the flute, and I have taken lessons for two years. My goal for the school year is to pass all my classes with straight **A's**.
 
 Here is a list of my daily routine:
 
@@ -15,10 +15,10 @@ Here is a list of my daily routine:
 6. Play videogames
 7. Go to bed
 
-Over the summer I traveled to **Florida** to visit my family. I got to go out on the ocean on a boat, and swim in the ocean. It was *super fun and exciting* to fly on an airplane and travel to a whole new place.
+Over the summer I traveled to **Florida** to visit my family. I got to go out on the ocean on a boat, and swim in the ocean. My whole family also got together for a special ***Hibachi*** dinner of shrimp and rice, which was delicious! It was *super fun and exciting* to fly on an airplane and travel to a whole new place.
 
 I love to draw, and I have recently started painting. I chose to paint a <u>watermelon</u>, and it was really cool getting get the colors right, and seeing the painting coming together.
 
 Here is my image collage:
 
-![Image Collage](![alt text](image.png))
+![alt text](image.png)
